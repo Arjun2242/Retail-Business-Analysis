@@ -1,6 +1,6 @@
 Retail Business Performance Analysis
 -------------------------------------
-
+-------------------------------------
 
 Summary:
 
@@ -33,10 +33,9 @@ SQL (conceptual): Suggested queries for margin and trend analysis.
 ____________________
 
 Attachments:
-____________
+
 category_profit.csv (for profit by main category),
 subcat_profit.csv (for detailed sub-category margin analysis),
 profit_inventory_plot.png (for visual of profit vs inventory days),
 tableau_dashboard.png (for dashboard screenshot).
-_________________
-_________________
+
